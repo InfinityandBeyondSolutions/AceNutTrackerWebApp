@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AceNutTrackerWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f81c45e9f1c318ef12ed1cf413f100a9efef1f33")]
 [assembly: System.Reflection.AssemblyProductAttribute("AceNutTrackerWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AceNutTrackerWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AceNutTrackerWebApp", "AceNutTrackerWebApp\AceNutTrackerWebApp.csproj", "{D9E6B1EC-9DB1-453D-8E9C-30F0E198CAB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E6B1EC-9DB1-453D-8E9C-30F0E198CAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E6B1EC-9DB1-453D-8E9C-30F0E198CAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E6B1EC-9DB1-453D-8E9C-30F0E198CAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E6B1EC-9DB1-453D-8E9C-30F0E198CAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A14C1724-26F0-4A29-BB15-285CA0471473}
+	EndGlobalSection
+EndGlobal
